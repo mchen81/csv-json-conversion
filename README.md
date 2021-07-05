@@ -17,3 +17,7 @@ Can do attribute validation, like restrict a column to fit in a regex, etc.
 Transferred file
 
 
+# Requirement
+1. Written in go
+2. Work with go routines 
+3. (Maybe) use grpc to send files?
